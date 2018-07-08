@@ -3,6 +3,7 @@
 Ementa do bootcamp de JavaScript.
 
 [website](http://bootcamp.joinville.br)
+[livro Eloquent JavaScript](https://eloquentjavascript.net)
 
 ## Datas
 

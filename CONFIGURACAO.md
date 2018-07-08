@@ -4,10 +4,15 @@ Durante o curso vamos treinar o que estamos aprendendo em exercícios práticos.
 
 * Git ([instalação](https://git-scm.com/))
 * Node.js ([instalação](https://nodejs.org/en/download/))
+* Jest ([instalação[(https://jestjs.io/docs/en/getting-started))
 
 **Instalação**
 
 Instale o Git e o Node.js como indicado nos links. Abaixo estão instruções de instalação para Linux, macOS e Windows.
+
+```sh
+npm install -g jest
+```
 
 **Windows**
 

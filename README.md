@@ -38,7 +38,7 @@ Instrutor: Diogo Trentini
 
 **Dia 4 - 19 de Julho**
 
-* Introdução so Terminal
+* Introdução ao Terminal
 * Introdução ao Node.js 
 
 Instrutor: Alan R. Fachini

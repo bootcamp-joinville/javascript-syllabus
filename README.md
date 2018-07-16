@@ -15,9 +15,9 @@ Das 19 horas até às 22 horas.
 
 * Introdução ao curso
 * Git/GitHub/GitHub Education
-* Introdução ao HTML e DOM
+* ([Katas](https://github.com/bootcamp-joinville/katas-part-one))
 
-Instrutor: Renie Siqueira
+Instrutor: Luan Milnitz
 
 **Dia 2 - 17 de Julho**
 
@@ -25,6 +25,7 @@ Instrutor: Renie Siqueira
 * Valores, tipos, operadores
 * Funções
 * Arrays e Objetos
+* ([Katas](https://github.com/bootcamp-joinville/katas-part-one))
 
 Instrutor: Lucas Tomkiel
 
@@ -48,7 +49,7 @@ Instrutor: Alan R. Fachini
 * Introdução ao Projeto
 * Hands on
 
-Instrutor: Renie Siqueira
+Instrutor: Luan Milnitz
 
 **Dia 6 - 24 de Julho**
 

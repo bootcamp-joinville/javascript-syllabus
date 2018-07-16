@@ -2,7 +2,7 @@
 
 Ementa do bootcamp de JavaScript.
 
-[website](http://bootcamp.joinville.br) | [livro Eloquent JavaScript](https://eloquentjavascript.net)
+[website](http://bootcamp.joinville.br) | [livro Eloquent JavaScript](http://www.magrathealabs.com/eloquente-javascript/)
 
 ## Datas
 

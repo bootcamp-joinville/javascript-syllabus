@@ -48,5 +48,4 @@ Verifique se os pacotes foram corretamente instalados, digitando no console:
 
 ```sh
 node --version
-yarn --version
 ```

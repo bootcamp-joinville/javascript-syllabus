@@ -36,6 +36,7 @@ Instrutor: Lucas Tomkiel
 * HTTP e Ajax
 * JavaScript no browser
 * Eventos
+* [katas](https://github.com/bootcamp-joinville/katas-two)
 
 Instrutor: Diogo Trentini
 
